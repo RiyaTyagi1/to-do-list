@@ -15,8 +15,9 @@ form{
 }
 body{
 	height: 100vh;
-	background: #9ece67;
-	background: linear-gradient(139deg,#f4eff2d9 0%,#2df305b6 90%);
+	background-image: url(image.jpg);
+	<!--background: #9ece67;-->
+	<!--background: linear-gradient(139deg,#f4eff2d9 0%,#2df305b6 90%);-->
 }
 
 .container{
